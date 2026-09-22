@@ -66,7 +66,7 @@ crontab -e
 Add this line:
 
 ```
-*/20 * * * * /bin/bash /home/shadrack/MacSpoof/spoof.sh
+*/20 * * * * /bin/bash /home/username/MacSpoof/spoof.sh
 ```
 
 ### Logs
